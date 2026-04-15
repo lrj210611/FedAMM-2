@@ -1,0 +1,2 @@
+data_name,mask_id,mask,pos_mask_ids
+smoke_01,14,"[True, True, True, True]",[14]
